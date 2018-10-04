@@ -10,7 +10,6 @@ s = sum(a)
 counter = int(0)
 valid = False
 
-#lists are mutable muuhahahahaha
 def ammend(l):
     a[-1] /= float(2)
     a.append(int(round(a[-1])))
