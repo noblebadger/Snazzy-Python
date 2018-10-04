@@ -1,5 +1,3 @@
-
-
 def count_func(n):
 	x = 0
 
